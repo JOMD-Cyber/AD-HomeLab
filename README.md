@@ -82,19 +82,19 @@ Built a fully functional Active Directory environment in VirtualBox for hands-on
 
 ## Screenshots
 
-![Server Manager - AD DS Installed](screenshots/server-manager-ad.png)
+![Server Manager - AD DS Installed](screenshots/WinServerAD.png)
 *Server Manager showing Active Directory Domain Services installed and running*
 
-![Active Directory Users and Computers](screenshots/aduc.png)
+![Active Directory Users and Computers](screenshots/Win11IP.png)
 *Active Directory Users and Computers console with DBC.local domain*
 
-![Windows 11 Domain Properties](screenshots/win11-domain.png)
+![Windows 11 Domain Properties](screenshots/Win11IP.png)
 *Windows 11 System Properties showing successful domain join to DBC.local*
 
-![Network Configuration - Server](screenshots/server-network.png)
+![Network Configuration - Server](screenshots/serverIPConfig.png)
 *Static IP configuration on Windows Server 2022 Domain Controller*
 
-![Network Configuration - Client](screenshots/client-network.png)
+![Network Configuration - Client](screenshots/Finishedconnect.png)
 *DNS settings on Windows 11 client pointing to domain controller*
 
 ---
