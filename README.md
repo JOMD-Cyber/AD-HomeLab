@@ -162,7 +162,7 @@ Practiced skills directly applicable to ServiceTec's "Junior IT Systems Speciali
 ![Group Policy Management](screenshots/GPM.png)
 *Group Policy Management console with IT-Support-Policy linked to OU*
 
-![Drive Mapping GPO](screenshots/drive-mapping-gpo.png)
+![Drive Mapping GPO](screenshots/SharedMapping.png)
 *Group Policy Preferences showing S: drive configuration*
 
 ![Shared Folder Permissions](screenshots/shared-permissions.png)
