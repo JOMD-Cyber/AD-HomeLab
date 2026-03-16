@@ -159,7 +159,7 @@ Practiced skills directly applicable to ServiceTec's "Junior IT Systems Speciali
 ![ADUC Structure](screenshots/OUusers.png)
 *Active Directory Users and Computers showing OU hierarchy and user accounts*
 
-![Group Policy Management](screenshots/gpo-linked.png)
+![Group Policy Management](screenshots/GPM.png)
 *Group Policy Management console with IT-Support-Policy linked to OU*
 
 ![Drive Mapping GPO](screenshots/drive-mapping-gpo.png)
