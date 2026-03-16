@@ -99,7 +99,7 @@ Built a fully functional Active Directory environment in VirtualBox for hands-on
 
 ---
 
-**Built:** March 2026  
+**Built:** March 15th 2026  
 **Purpose:** Cybersecurity skill development & job interview preparation
 
 ## Active Directory GPO & Shared Resources Lab
@@ -173,3 +173,5 @@ Practiced skills directly applicable to ServiceTec's "Junior IT Systems Speciali
 
 ![Mapped Drive](screenshots/SharedFolder.png)
 *File Explorer showing S: drive successfully mapped via Group Policy*
+
+*Updated March 16th 2026*
