@@ -168,8 +168,8 @@ Practiced skills directly applicable to ServiceTec's "Junior IT Systems Speciali
 ![Shared Folder Permissions](screenshots/Permission4shared.png)
 *Shared folder NTFS permissions with IT-Support-Team group*
 
-![Domain Login](screenshots/jowens-login.png)
+![Domain Login](screenshots/OUlogin.png)
 *Windows 11 client login screen showing DBC domain and jowens user*
 
-![Mapped Drive](screenshots/mapped-drive.png)
+![Mapped Drive](screenshots/SharedFolder.png)
 *File Explorer showing S: drive successfully mapped via Group Policy*
