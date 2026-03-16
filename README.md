@@ -165,7 +165,7 @@ Practiced skills directly applicable to ServiceTec's "Junior IT Systems Speciali
 ![Drive Mapping GPO](screenshots/SharedMapping.png)
 *Group Policy Preferences showing S: drive configuration*
 
-![Shared Folder Permissions](screenshots/shared-permissions.png)
+![Shared Folder Permissions](screenshots/Permission4shared.png)
 *Shared folder NTFS permissions with IT-Support-Team group*
 
 ![Domain Login](screenshots/jowens-login.png)
