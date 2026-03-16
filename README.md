@@ -156,7 +156,7 @@ Practiced skills directly applicable to ServiceTec's "Junior IT Systems Speciali
 
 ### Screenshots
 
-![ADUC Structure](screenshots/aduc-structure.png)
+![ADUC Structure](screenshots/OUusers.png)
 *Active Directory Users and Computers showing OU hierarchy and user accounts*
 
 ![Group Policy Management](screenshots/gpo-linked.png)
